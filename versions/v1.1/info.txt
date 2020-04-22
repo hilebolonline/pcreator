@@ -2,6 +2,6 @@
   "ProgramIsActive": true,
   "showMessage": false,
   "message": "Hello, this is admin message!",
-  "openLink": false,
-  "link": "https://hilebol.online/"
+  "openURL": false,
+  "URL": "https://hilebol.online/"
 }
