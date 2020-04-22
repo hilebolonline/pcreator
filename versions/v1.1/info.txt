@@ -1,0 +1,7 @@
+{
+  "ProgramIsActive": true,
+  "showMessage": false,
+  "message": "Hello, this is admin message!",
+  "openUpdateLink": false,
+  "updateLink": "https://hilebol.online/"
+}
