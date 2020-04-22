@@ -1,7 +1,7 @@
 {
-  "ProgramIsActive": false,
-  "showMessage": true,
+  "ProgramIsActive": true,
+  "showMessage": false,
   "message": "Hello, this is admin message!",
-  "openURL": true,
+  "openURL": false,
   "URL": "https://hilebol.online/"
 }
