@@ -1,7 +1,7 @@
 {
-  "ProgramIsActive": true,
-  "showMessage": false,
-  "message": "Hello, this is admin message!",
-  "openURL": false,
-  "URL": "https://hilebol.online/"
+  "ProgramIsActive": false,
+  "showMessage": true,
+  "message": "Hello. Join our discord channel for the new version.",
+  "openURL": true,
+  "URL": "https://discord.io/pgiex"
 }
