@@ -1,7 +1,7 @@
 {
-  "ProgramIsActive": true,
-  "showMessage": false,
-  "message": "Hello, this is admin message!",
-  "openURL": false,
-  "URL": "https://hilebol.space/"
+  "ProgramIsActive": false,
+  "showMessage": true,
+  "message": "New version: Proxifier Profile Creator is now a webpage.",
+  "openURL": true,
+  "URL": "http://bit.ly/ppcreator"
 }
